@@ -36,18 +36,6 @@ Bienvenido a mi perfil de GitHub. Soy Erik Ruiz., un **Desarrollador de aplicaci
 
 ---
 
-### 🌐 Conéctate conmigo
-
-- Sitio web profesional: [developer.arthurolg.com](https://developer.arthurolg.com/)
-- LinkedIn: [linkedin.com/in/arthurolg](https://www.linkedin.com/in/lgzarturo/)
-- Twitter (X): [@lgzarturo](https://twitter.com/lgzarturo)
-- Instagram: [@lgzarturo](https://www.instagram.com/lgzarturo/)
-- Pinterest: [@arthurolg](https://www.pinterest.com.mx/arthurolg/)
-- Facebook: [lgzarturo](https://www.facebook.com/lgzarturo)
-- Tumblr: [lgzarturo](https://lgzarturo.tumblr.com/)
-
----
-
 ### 🎯 Habilidades clave
 
 - Experto en programación y desarrollo de sistemas
@@ -58,20 +46,5 @@ Bienvenido a mi perfil de GitHub. Soy Erik Ruiz., un **Desarrollador de aplicaci
 
 ---
 
-### 💡 Proyectos destacados
-
-- [MiraElJuego.com](https://miraeljuego.com): Un juego de cartas interactivo desarrollado con React.
-
----
-
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto en mente o simplemente quieres conversar sobre tecnología, no dudes en contactarme.
 
----
-
-### GitHub Stats
-
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
-
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
-
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
