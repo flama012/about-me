@@ -1,11 +1,4 @@
-# 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
-
-![Arturo López - Programador Web](https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/github-header.jpg)
-
-![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
-
-## ¡Hola! 👋🏻
+## ¡Buenas! 👋🏻
 
 Bienvenido a mi perfil de GitHub. Soy Erik Ruiz., un **Desarrollador de aplicaciones web** con pasión por la programación, la tecnología y las ciencias. Tengo experiencia en las industrias de telefonía y las reparaciones entre otras . Me especializo en lenguajes como **Java**, **Html**, **Css** y **Python**.
 
